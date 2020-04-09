@@ -3,6 +3,9 @@
   margin: 0px auto;
   box-sizing: border-box; }
 
+body {
+  background-color: #fff; }
+
 .p-x {
   padding-left: 15px;
   padding-right: 15px; }
@@ -179,10 +182,7 @@ header {
     header .cont .two {
       padding-top: 30px; }
       header .cont .two img {
-        width: 70%; }
-        @media (max-width: 990px) {
-          header .cont .two img {
-            width: 100%; } }
+        width: 100%; }
 
 .section-one {
   padding-top: 50px;
